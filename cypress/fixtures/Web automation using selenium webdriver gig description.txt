@@ -1,0 +1,37 @@
+Welcome to my gig-related web automation, test automation, and automation testing using Selenium WebDriver Java and TestNG.
+
+If you are looking for web automation through Selenium WebDriver Java and TestNG for your website, then you are in the right place.
+
+I am a highly skilled QA pro with exceptional logical and design abilities. I will study the requirements and automate test cases using a smoke and regression point of view in accordance with the client's requirements using Selenium WebDriver Java + TestNG. 
+
+I automated around 500 test cases for different kinds of Web applications,
+
+using Selenium WebDriver Java + TestNG. 
+
+Services:
+
+
+
+1- Test Case Writing, Test Plan, Test Scenarios.
+
+2- Use Maven repository for dependency maintenance.
+
+3- Follow Page object model design pattern.
+
+4- Automate test cases with smoke and regression points of view as per client requirements.
+
+5- Will Generate extent reports using TestNG
+
+6- PostMan API Testing
+
+7- Load Testing (JMeter).
+
+
+
+Please feel free to contact me.
+
+
+
+Regards
+
+Umar mehar
